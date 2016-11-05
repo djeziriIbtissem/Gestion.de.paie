@@ -15,7 +15,7 @@ public class main {
         listeEmploye.add(E2);
         listeEmploye.add(E3);
 
-
+// plutot utilisé une boucle pour faire appel a calculPaie() et chequePaie()
         E1.calculePaie();
         E1.chequePaie();
        System.out.print( "\n");
